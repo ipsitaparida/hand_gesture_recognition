@@ -11,5 +11,6 @@ CNN architecture
 ![CNN](https://github.com/ipsitaparida/hand_gesture_recognition/assets/13838099/ecf6c93a-3500-40bb-b91e-60b21b5054c1)
 
 Box and Whisker plot
+
 ![Untitled](https://github.com/ipsitaparida/hand_gesture_recognition/assets/13838099/b39fee78-20bd-4048-922a-634ca8120ab1)
 
